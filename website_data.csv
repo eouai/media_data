@@ -1,4 +1,4 @@
-Source,Bias1,Bias2,Bias3,Bias4,Avg Bias,Stdv Avg,3 month traffic (000),Monthly traffic (000),monthly unique traffic (000),Desktop,Mobile,Duration (seconds),pages,bounce,label,rank
+Source,Bias1,Bias2,Bias3,Bias4,Avg Bias,Bias STDV,3 month traffic (000),Monthly traffic (000),monthly unique traffic (000),Desktop,Mobile,Duration (seconds),pages,bounce,label,rank
 CNN,-37,-63,-40,-27,-41.7,13.4,"2,533,000","844,300","201,100",41,59,228,2.06,56,Lib,1
 Google News,,-40,-40,-13,-31.1,12.6,"1,817,000","605,700","66,270",67,33,333,3.22,44,Lib,2
 BBC,-13,-17,0,-50,-20,18.4,"1,580,000","527,300","201,100",31,69,151,1.96,65,Lib,3
