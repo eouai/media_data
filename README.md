@@ -14,8 +14,13 @@ https://today.yougov.com/ratings/media/popularity/radio-programs-podcasts/all
 
 
 Bias scores:
+
 Bias1 = https://www.adfontesmedia.com/interactive-media-bias-chart/
+
 Bias2 = https://MediaBiasFactCheck.com
+
 Bias3 = https://www.allsides.com/media-bias/media-bias-ratings
+
 Bias4 = https://www.journalism.org/interactives/media-polarization/outlet/
+
 Bias5 = manual entry
