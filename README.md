@@ -21,6 +21,6 @@ Bias2 = https://MediaBiasFactCheck.com
 
 Bias3 = https://www.allsides.com/media-bias/media-bias-ratings
 
-Bias4 = https://www.journalism.org/interactives/media-polarization/outlet/
+Bias4 = https://www.journalism.org/2014/10/21/political-polarization-media-habits/
 
 Bias5 = manual entry
