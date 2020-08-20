@@ -1,6 +1,6 @@
 # Bias in US News Media
 
-I’ll describe an approach I took to examine this question.  I thought it might be useful to look at perceived political bias in US News-media coverage, and see how that aligns with national political ideology.  I’ve read some studies that made similar inquiries, but didn’t find the specific results I wanted, so I did my own research.  A summary is available [here]( https://imgur.com/gallery/SzXjLN8) and the full data is located [here](https:// https://www.github.com/eouai/media_data).   
+I’ll describe an approach I took to examine this question.  I thought it might be useful to look at perceived political bias in US News-media coverage, and see how that aligns with national political ideology.  I’ve read some studies that made similar inquiries, but didn’t find the specific results I wanted, so I did my own research.  Charts and graphs are available [here]( https://imgur.com/gallery/SzXjLN8).   
 
 The short, dirty answer is that news-media consumption in the US sees about:  
 54.0% - volume of traffic / consumption captured by liberal leaning sources / outlets  
