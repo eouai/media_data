@@ -1,4 +1,4 @@
-# media_data
+# Bias in US News Media
 
 Methodology and other details, plus another interesting bias measure:
 
