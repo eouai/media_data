@@ -1,6 +1,6 @@
 # Bias in US News Media
 
-Methodology and other details, plus another interesting bias measure:
+Methodology and other details...
 
 Summary:  US news media coverage by volume sees liberal sites capturing a slight majority of the traffic levels.  However, conservative US news media coverage appears to be more likely to incorporate biased or partisan coverage than its liberal counterparts – possibly as a reaction or counterbalance to the volume disadvantage.
 
