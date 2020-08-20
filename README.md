@@ -1,18 +1,18 @@
 # Bias in US News Media
 
+Summary:  US news media coverage by volume sees liberal sites capturing a slight majority of the traffic levels.  However, conservative US news media coverage appears to be more likely to incorporate biased or partisan coverage than its liberal counterparts – possibly as a reaction or counterbalance to the volume disadvantage.
+
 I’ll describe an approach I took to examine this question.  I thought it might be useful to look at perceived political bias in US News-media coverage, and see how that aligns with national political ideology.  I’ve read some studies that made similar inquiries, but didn’t find the specific results I wanted, so I did my own research.  Charts and graphs are included in this Git repo, but also available [here]( https://imgur.com/gallery/SzXjLN8).   
 
 The short, dirty answer is that news-media consumption in the US sees about:  
 54.0% - volume of traffic / consumption captured by liberal leaning sources / outlets  
 46.0% - volume of traffic / consumption captured by conservative leaning sources / outlets  
 
-Compare this ratio to the [popular vote split](https://www.google.com/search?q=2016+popular+vote&oq=2016+popular+vote&aqs=chrome..69i57j0l7.3719j0j4&sourceid=chrome&ie=UTF-8) from 2016 of 51.1% Democrat and 48.9% Republican (48/46 counting “other” votes).  This split isn’t terribly far off from my volume numbers, but it does appear to imply a “liberal bias”.  However, that figure was from 2016.  Consider [current polling numbers](https://projects.fivethirtyeight.com/polls/president-general/national/).  These obviously vary from week to week, but recently have been hovering around a 50% Democrat / 42% Republican split.  That 8 to 9% Democrat edge aligns almost perfect with my measured bias.  These vote totals and polling figures seem to imply that the average news-media experience falls pretty close in line with our national ideological balance. 
+Compare this ratio to the [popular vote split](https://www.google.com/search?q=2016+popular+vote&oq=2016+popular+vote&aqs=chrome..69i57j0l7.3719j0j4&sourceid=chrome&ie=UTF-8) from 2016 of 51.1% Democrat and 48.9% Republican (48/46 counting “other” votes).  However, that figure was from 2016.  Consider [current polling numbers](https://projects.fivethirtyeight.com/polls/president-general/national/).  These obviously vary from week to week, but recently have been hovering around a 50% Democrat / 42% Republican split.  That 8 to 9% Democrat edge aligns much closer perfect with my measured bias.  These vote totals and polling figures seem to imply that the average news-media experience falls pretty close in line with our national ideological balance, but that a slight "liberal bias" might still exist.
 
 My personal opinion is that news-media takes a lot of heat.  They’re a great scapegoat.  But I feel that at the end of the day – their coverage and the narratives they drive go hand-in-hand with what their customers want to hear, and what their correlated politicians want to say.  I think they’re largely a mirror of public sentiment, and less frequently a driver.  
 
 # Methodology and other details...
-
-Summary:  US news media coverage by volume sees liberal sites capturing a slight majority of the traffic levels.  However, conservative US news media coverage appears to be more likely to incorporate biased or partisan coverage than its liberal counterparts – possibly as a reaction or counterbalance to the volume disadvantage.
 
 The segments where I gathered both traffic volume as well as bias measures include data from US News websites, Cable TV News, and News Radio.  Segments that used estimates include: Network TV, Local TV, Social Media, and Other (print, podcasts, local radio, etc.)  [Pew Research]( https://www.journalism.org/2020/07/30/americans-who-mainly-get-their-news-on-social-media-are-less-engaged-less-knowledgeable/) and [RAND](https://www.rand.org/pubs/research_reports/RR4212.html) estimate that Websites, Cable TV, and Radio capture 49% of US news-media consumption, with the other segments capturing the remaining 51%.   
 
