@@ -7,25 +7,25 @@ Summary:  US news media coverage by volume sees liberal sites capturing a slight
 The segments where I gathered both traffic volume as well as bias measures include data from US News websites, Cable TV News, and News Radio.  Segments that used estimates include: Network TV, Local TV, Social Media, and Other (print, podcasts, local radio, etc.)  [Pew Research]( https://www.journalism.org/2020/07/30/americans-who-mainly-get-their-news-on-social-media-are-less-engaged-less-knowledgeable/) and [RAND](https://www.rand.org/pubs/research_reports/RR4212.html) estimate that Websites, Cable TV, and Radio capture 49% of US news-media consumption, with the other segments capturing the remaining 51%.   
 
 Separating the numbers from estimated vs. measured, we see:  
-56% liberal, 44% conservative: measured segments (Online, CableTV, Radio)
-52% liberal, 48% conservative: estimated segments (NetworkTV, LocalTV, Social Media, Other)
+56% liberal, 44% conservative: measured segments (Online, CableTV, Radio)  
+52% liberal, 48% conservative: estimated segments (NetworkTV, LocalTV, Social Media, Other)  
 
-The 56 / 44 split in overall traffic to liberal vs. conservative sources is an aggregated, weighted average total.  Drilling down one level further into the 56/44 split (the more accurate measured data), we see the results for individual segments as follows:
-70% liberal, 30% conservative:  Internet news consumed by volume of traffic
-54% liberal, 46% conservative: Cable TV news consumed by volume of watchers
-37% liberal, 63% conservative: Radio news consumed by volume of listeners
+The 56 / 44 split in overall traffic to liberal vs. conservative sources is an aggregated, weighted average total.  Drilling down one level further into the 56/44 split (the more accurate measured data), we see the results for individual segments as follows:  
+70% liberal, 30% conservative:  Internet news consumed by volume of traffic  
+54% liberal, 46% conservative: Cable TV news consumed by volume of watchers  
+37% liberal, 63% conservative: Radio news consumed by volume of listeners  
 
 Purely by volume, we see that liberal news media dominates online traffic, and holds a majority of Cable TV traffic.  Conservative news media dominates radio traffic.  
 
-Also, while volume of traffic to liberal vs conservative sources is important – bias is not simply a left / right binary.  Not all bias is created equal.  Not all liberal sites are the same.  Not all conservative reporting is the same.  Some bias is very subtle and mild.  Some is blatant.  So, I collected and referenced a second measure which scored the amount or prevalence of bias.  Using a scale of 0 to 100, with unbiased coverage sitting at 0, and extreme bias sitting at 100 – the short, dirty answer for bias is:
-22.0 – average bias score for liberal sites
-48.5 – average bias score for conservative sites
+Also, while volume of traffic to liberal vs conservative sources is important – bias is not simply a left / right binary.  Not all bias is created equal.  Not all liberal sites are the same.  Not all conservative reporting is the same.  Some bias is very subtle and mild.  Some is blatant.  So, I collected and referenced a second measure which scored the amount or prevalence of bias.  Using a scale of 0 to 100, with unbiased coverage sitting at 0, and extreme bias sitting at 100 – the short, dirty answer for bias is:  
+22.0 – average bias score for liberal sites  
+48.5 – average bias score for conservative sites  
 
-Additionally, the breakdown for the bias scores is as follows:
-23.0 – average bias score for liberal radio
-21.2 – average bias score for liberal online sites
-64.0 – average bias score for conservative radio
-36.3 – average bias score for conservative online sites
+Additionally, the breakdown for the bias scores is as follows:  
+23.0 – average bias score for liberal radio  
+21.2 – average bias score for liberal online sites  
+64.0 – average bias score for conservative radio  
+36.3 – average bias score for conservative online sites  
 
 Meaning, conservative sources, on average, present more pronounced bias in their coverage than liberal sites.
 
@@ -66,44 +66,30 @@ Supporting data files for news-media analysis
 Website traffic pulled from SimilarWeb from May 2020:  
 https://www.similarweb.com
 
-CableTV traffic pulled from Adweek Nielsen ratings from May 2020:   
+CableTV traffic pulled from Adweek Nielsen ratings from May 2020:     
 https://www.adweek.com/tvnewser/q2-2020-cable-news-show-ranker/446758/
 
-Radio listeners traffic pulled from Nielsen and Talkers 2019:
-http://www.talkers.com/top-talk-audiences/
-https://today.yougov.com/ratings/media/popularity/radio-programs-podcasts/all
+Radio listeners traffic pulled from Nielsen and Talkers 2019:  
+http://www.talkers.com/top-talk-audiences/  
+https://today.yougov.com/ratings/media/popularity/radio-programs-podcasts/all  
 
 
-Bias sources:
+Bias sources:  
+Bias1 = https://www.adfontesmedia.com/interactive-media-bias-chart/  
+Bias2 = https://MediaBiasFactCheck.com  
+Bias3 = https://www.allsides.com/media-bias/media-bias-ratings  
+Bias4 = https://www.journalism.org/2014/10/21/political-polarization-media-habits/  
+Bias5 = manual entry  
 
-Bias1 = https://www.adfontesmedia.com/interactive-media-bias-chart/
+Polling sources:  
+https://www.journalism.org/2020/07/30/americans-who-mainly-get-their-news-on-social-media-are-less-engaged-less-knowledgeable/  
+https://www.rand.org/pubs/research_reports/RR4212.html  
+https://news.gallup.com/poll/275792/remained-center-right-ideologically-2019.aspx  
 
-Bias2 = https://MediaBiasFactCheck.com
-
-Bias3 = https://www.allsides.com/media-bias/media-bias-ratings
-
-Bias4 = https://www.journalism.org/2014/10/21/political-polarization-media-habits/
-
-Bias5 = manual entry
-
-Polling sources:
-
-https://www.journalism.org/2020/07/30/americans-who-mainly-get-their-news-on-social-media-are-less-engaged-less-knowledgeable/
-
-https://www.rand.org/pubs/research_reports/RR4212.html
-
-https://news.gallup.com/poll/275792/remained-center-right-ideologically-2019.aspx
-
-Other useful articles giving additional insight into media bias in the US.
-
-https://www.mediamatters.org/facebook/study-facebook-still-not-censoring-conservatives
-
-https://www.mediamatters.org/facebook/study-analysis-top-facebook-pages-covering-american-political-news
-
-https://en.wikipedia.org/wiki/Media_bias_in_the_United_States
-
-https://www.pewresearch.org/fact-tank/2019/09/11/key-findings-about-the-online-news-landscape-in-america/
-
-https://advances.sciencemag.org/content/6/14/eaay9344
-
-https://www.oxfordbibliographies.com/view/document/obo-9780199756841/obo-9780199756841-0111.xml#obo-9780199756841-0111-div2-0001
+Other useful articles giving additional insight into media bias in the US.  
+https://www.mediamatters.org/facebook/study-facebook-still-not-censoring-conservatives  
+https://www.mediamatters.org/facebook/study-analysis-top-facebook-pages-covering-american-political-news  
+https://en.wikipedia.org/wiki/Media_bias_in_the_United_States  
+https://www.pewresearch.org/fact-tank/2019/09/11/key-findings-about-the-online-news-landscape-in-america/  
+https://advances.sciencemag.org/content/6/14/eaay9344  
+https://www.oxfordbibliographies.com/view/document/obo-9780199756841/obo-9780199756841-0111.xml#obo-9780199756841-0111-div2-0001  
