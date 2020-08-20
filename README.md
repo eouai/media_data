@@ -74,14 +74,25 @@ http://www.talkers.com/top-talk-audiences/
 https://today.yougov.com/ratings/media/popularity/radio-programs-podcasts/all
 
 
-Bias scores:
+Bias sources:
 
 Bias1 = https://www.adfontesmedia.com/interactive-media-bias-chart/
-
 Bias2 = https://MediaBiasFactCheck.com
-
 Bias3 = https://www.allsides.com/media-bias/media-bias-ratings
-
 Bias4 = https://www.journalism.org/2014/10/21/political-polarization-media-habits/
-
 Bias5 = manual entry
+
+Polling sources:
+
+https://www.journalism.org/2020/07/30/americans-who-mainly-get-their-news-on-social-media-are-less-engaged-less-knowledgeable/
+https://www.rand.org/pubs/research_reports/RR4212.html
+https://news.gallup.com/poll/275792/remained-center-right-ideologically-2019.aspx
+
+Other useful articles giving additional insight into media bias in the US.
+
+https://www.mediamatters.org/facebook/study-facebook-still-not-censoring-conservatives
+https://www.mediamatters.org/facebook/study-analysis-top-facebook-pages-covering-american-political-news
+https://en.wikipedia.org/wiki/Media_bias_in_the_United_States
+https://www.pewresearch.org/fact-tank/2019/09/11/key-findings-about-the-online-news-landscape-in-america/
+https://advances.sciencemag.org/content/6/14/eaay9344
+https://www.oxfordbibliographies.com/view/document/obo-9780199756841/obo-9780199756841-0111.xml#obo-9780199756841-0111-div2-0001
