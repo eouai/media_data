@@ -69,9 +69,7 @@ Additionally, for this project, I restricted my sources geographically to primar
 
 And one last consideration.  I used Gallup poll numbers that list which sources Americans go to, to get their news.  If an adult lists “online and cable TV” as their typical and frequent news sources – my volume numbers effectively assume equal news consumption from each source.  However, consumption habits vary.  Can you compare a 3 hour daily Rush Limbaugh power-listener to a 30 minute NPR-news commuter to a 10 minute online FoxNews browser to a Google News reader that rarely clicks articles but scans titles for hours?  Clearly, the news experience can vary significantly, and the amount of bias exposure can’t be perfectly captured solely by looking at volume measures and bias scores.
 
-
-
-Supporting data files for news-media analysis
+# Sources
 
 Website traffic pulled from SimilarWeb from May 2020:  
 https://www.similarweb.com
@@ -84,7 +82,7 @@ http://www.talkers.com/top-talk-audiences/
 https://today.yougov.com/ratings/media/popularity/radio-programs-podcasts/all  
 
 
-Bias sources:  
+Bias scoring sources:  
 Bias1 = https://www.adfontesmedia.com/interactive-media-bias-chart/  
 Bias2 = https://MediaBiasFactCheck.com  
 Bias3 = https://www.allsides.com/media-bias/media-bias-ratings  
