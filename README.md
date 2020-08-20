@@ -6,7 +6,7 @@ Summary:  US news media coverage by volume sees liberal sites capturing a slight
 
 The segments where I gathered both traffic volume as well as bias measures include data from US News websites, Cable TV News, and News Radio.  Segments that used estimates include: Network TV, Local TV, Social Media, and Other (print, podcasts, local radio, etc.)  [Pew Research]( https://www.journalism.org/2020/07/30/americans-who-mainly-get-their-news-on-social-media-are-less-engaged-less-knowledgeable/) and [RAND](https://www.rand.org/pubs/research_reports/RR4212.html) estimate that Websites, Cable TV, and Radio capture 49% of US news-media consumption, with the other segments capturing the remaining 51%.   
 
-Separating the numbers from estimated vs. measured, we see:
+Separating the numbers from estimated vs. measured, we see:  
 56% liberal, 44% conservative: measured segments (Online, CableTV, Radio)
 52% liberal, 48% conservative: estimated segments (NetworkTV, LocalTV, Social Media, Other)
 
