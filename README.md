@@ -2,13 +2,13 @@
 
 Summary:  US news media coverage by volume sees liberal sites capturing a slight majority of the traffic levels.  However, conservative US news media coverage appears to be more likely to incorporate biased or partisan coverage than its liberal counterparts – possibly as a reaction or counterbalance to the volume disadvantage.
 
-I’ll describe an approach I took to examine this question.  I thought it might be useful to look at perceived political bias in US News-media coverage, and see how that aligns with national political ideology.  I’ve read some studies that made similar inquiries, but didn’t find the specific results I wanted, so I did my own research.  Charts and graphs are included in this Git repo, but also available [here]( https://imgur.com/gallery/SzXjLN8).   
+I’ll describe an approach I took to examine this question.  I thought it might be useful to look at perceived political bias in US News-media coverage, and see how that aligns with national political ideology.  Charts and graphs are included in this Git repo, but also available [here]( https://imgur.com/gallery/SzXjLN8).   
 
 The short, dirty answer is that news-media consumption in the US sees about:  
 54.0% - volume of traffic / consumption captured by liberal leaning sources / outlets  
 46.0% - volume of traffic / consumption captured by conservative leaning sources / outlets  
 
-Compare this ratio to the [popular vote split](https://www.google.com/search?q=2016+popular+vote&oq=2016+popular+vote&aqs=chrome..69i57j0l7.3719j0j4&sourceid=chrome&ie=UTF-8) from 2016 of 51.1% Democrat and 48.9% Republican (48/46 counting “other” votes).  However, that figure was from 2016.  Consider [current polling numbers](https://projects.fivethirtyeight.com/polls/president-general/national/).  These obviously vary from week to week, but recently have been hovering around a 50% Democrat / 42% Republican split.  That 8 to 9% Democrat edge aligns much closer perfect with my measured bias.  These vote totals and polling figures seem to imply that the average news-media experience falls pretty close in line with our national ideological balance, but that a slight "liberal bias" might still exist.
+Compare this ratio to the [2020 popular vote split](https://en.wikipedia.org/wiki/2020_United_States_presidential_election) of 52.2% Democrate / 47.8% Republican as well as the [2016 popular vote split](https://www.google.com/search?q=2016+popular+vote&oq=2016+popular+vote&aqs=chrome..69i57j0l7.3719j0j4&sourceid=chrome&ie=UTF-8) 51.1% Democrat and 48.9% Republican (48/46 counting “other” votes).  Consider [2020 pre-election polling numbers](https://projects.fivethirtyeight.com/polls/president-general/national/).  These obviously varied from week to week, but frequently hovered around a 50% Democrat / 42% Republican split.  That 8 to 9% Democrat edge aligns closer to the measured 54 / 46 measured bias.  These vote totals and polling figures seem to imply that the average news-media experience falls pretty close in line with our national ideological balance, but that a slight "liberal bias" might still exist.
 
 My personal opinion is that news-media takes a lot of heat.  They’re a great scapegoat.  But I feel that at the end of the day – their coverage and the narratives they drive go hand-in-hand with what their customers want to hear, and what their correlated politicians want to say.  I think they’re largely a mirror of public sentiment, and less frequently a driver.  
 
@@ -27,7 +27,7 @@ The 56 / 44 split in overall traffic to liberal vs. conservative sources is an a
 
 Purely by volume, we see that liberal news media dominates online traffic, and holds a majority of Cable TV traffic.  Conservative news media dominates radio traffic.  
 
-Also, while volume of traffic to liberal vs conservative sources is important – bias is not simply a left / right binary.  Not all bias is created equal.  Not all liberal sites are the same.  Not all conservative reporting is the same.  Some bias is very subtle and mild.  Some is blatant.  So, I collected and referenced a second measure which scored the amount or prevalence of bias.  Using a scale of 0 to 100, with unbiased coverage sitting at 0, and extreme bias sitting at 100 – the short, dirty answer for bias is:  
+Also, while volume of traffic to liberal vs conservative sources is important – bias is not simply a left / right binary.  Not all bias is created equal.  Not all liberal sites are the same.  Not all conservative reporting is the same.  Some bias is very subtle and mild.  Some is blatant.  So, I collected and referenced a second measure which scored the extent or prevalence of partisan bias.  Using a scale of 0 to 100, with unbiased coverage sitting at 0, and extreme bias sitting at 100 – the short, dirty answer for bias is:  
 22.0 – average bias score for liberal sites  
 48.5 – average bias score for conservative sites  
 
@@ -37,9 +37,9 @@ Additionally, the breakdown for the bias scores is as follows:
 64.0 – average bias score for conservative radio  
 36.3 – average bias score for conservative online sites  
 
-Meaning, conservative sources, on average, present more pronounced bias in their coverage than liberal sites.
+Meaning, conservative sources, on average, present more pronounced partisan bias in their coverage than liberal sites.
 
-# How did I calculate bias?
+# How did I calculate bias scores?
 
 The bias scores were aggregated from several online sources, as much as possible.  Meaning – in almost every case the bias score is NOT my personal assessment of bias (a handful of radio programs were not listed in the sourced bias measures and were the only sites with any manual entries).  Also, these bias scores were only readily available for online news-sites and radio.  Meaning cable TV was not scored (other than a binary liberal / conservative label).
 
